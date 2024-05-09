@@ -7,4 +7,4 @@ This pipeline segments and analyses images of tomato fruit to measure multiple c
 
 ![input](./figs/S23_IMG_02117.JPG)
 
-![proof](./figs/S23_IMG_02117_proof.JPG)
+![proof](./figs/S23_IMG_02117_proof.jpg)
